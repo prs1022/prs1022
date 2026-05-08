@@ -1,5 +1,7 @@
 # Hi, I am 程序松 :smile:
 
+my resume: [我的简历](https://purensong.cyou/)
+
 # Contact
 - email: prs1022@126.com \ prs1022@outlook.com
 - [知乎](https://www.zhihu.com/people/songrenpu)
